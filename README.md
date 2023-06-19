@@ -25,14 +25,3 @@ Predator-prey game with Node.js
 
   *localhost:8081*
 
-![Preys](media/deers.gif)
-
-# Run with docker
-
-1. There Dockerfile from this repo
-2. *docker build . -t predator-prey*
-3. *docker run -p 8081:8081 predator-prey*
-
-The same image is available here:
-
-https://hub.docker.com/r/tprlab/predator-prey
