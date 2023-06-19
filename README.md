@@ -1,5 +1,5 @@
-# predator-prey
-Predator-prey game with Node.js
+# Sparrow destruction
+Sparrow destruction game with Node.js
 
 1. Install node.js
 2. *npm init -f*
